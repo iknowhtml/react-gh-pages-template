@@ -4,7 +4,7 @@
   "description": "A basic template for deploying a SPA on Github Pages using React, Redux and React Router.",
   "main": "index.jsx",
   "homepage": "https://iknowhtml.github.io/react-gh-pages-template",
-  "repository": "https://github.com/iknowhtml/redux-book-template.git",
+  "repository": "https://github.com/iknowhtml/react-gh-pages-template.git",
   "scripts": {
     "start": "webpack-dev-server --progress --inline --env.prod=0 --env.is_gh_project=1",
     "build": "webpack -p --env.prod=1 --env.is_gh_project=1"
